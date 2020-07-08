@@ -1,21 +1,10 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+Studnet Name  : Ishan Kumar Pandya
+Student ID    : 8682683
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+This is chatbot in which you plan your holiday starting from the budget and with every little detail like, travel mode, hotel room type, number of members etc.
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+If you start the game there will be options in every stage and user need to select the appropriate option.
+The options will be shown in the all uppercase letters.
+If user will not enter the correct option the program will throw the user at the starting of the game.
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
------
-
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
-
-
-
+Play and Enjoy.....
